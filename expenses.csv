@@ -1,0 +1,17 @@
+Date,Item,Amount,Category,Payment Method
+
+2025-09-05,Coffee,50.0,Food,Cash
+2025-09-05,Charger,500.0,Entertainment,UPI
+2025-09-05,TV,50000.0,Entertainment,Card
+2025-09-05,Juice,200.0,Food,Cash
+2025-09-05,Speakers,3000.0,Entertainment,UPI
+2025-09-05,Rice,500.0,Food,Cash
+2025-09-05,BUS ticket,1500.0,Travel,Card
+2025-09-06,Taxi,350.0,Travel,Cash
+2025-09-06,Book,400.0,Other,Card
+2025-09-07,Groceries,1200.0,Food,UPI
+2025-09-07,Movie Ticket,250.0,Entertainment,Card
+2025-09-08,Flight Ticket,8000.0,Travel,Card
+2025-09-08,Restaurant,900.0,Food,UPI
+2025-09-09,Internet Bill,700.0,Other,Card
+2025-09-09,Concert,2000.0,Entertainment,Cash
